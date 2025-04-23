@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.css";
+import "./App.css";
 class CounterClass extends React.Component {
   constructor() {
     super();
